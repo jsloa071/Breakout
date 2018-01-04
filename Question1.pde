@@ -1,5 +1,3 @@
-/*  Module 5.14  Breakout!
-    Question 1              */
 
 //declare # lives and score
 int score, lives; 
